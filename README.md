@@ -25,7 +25,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=777777)
 ![Redis](https://img.shields.io/badge/Redis-informational?style=flat&logo=Redis&logoColor=white&color=777777)
 </br>
-![ORM&Query](https://img.shields.io/badge/ORM%26Query-informational?style=flat)
+![ORM&Query](https://img.shields.io/badge/ORM%20%26%20Query-informational?style=flat)
 ![TypeORM](https://img.shields.io/badge/TypeORM-informational?style=flat&logo=TypeORM&logoColor=white&color=777777)
 ![Knex](https://img.shields.io/badge/Knex-informational?style=flat&logo=Knex&logoColor=white&color=777777)
 </br>
