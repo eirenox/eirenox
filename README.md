@@ -49,8 +49,8 @@
     - Non-photorealistic rendering research
     - Image based affective computing research
 
-## 🧘 Activity
-- ⛳️ Golf
+## 🏌️‍♂️ Activity
+- ⛳️ Golf & 🧘 Yoga
 - 🚘 Drive
 - 🍽 Eating & 🍺 Drinking
 
