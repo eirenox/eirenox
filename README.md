@@ -39,6 +39,9 @@
 ![Virtualize](https://img.shields.io/badge/Virtualize-informational?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=777777)
 </br>
+![CI/CD](https://img.shields.io/badge/CI/CD-informational?style=flat)
+![Github](https://img.shields.io/badge/Github-informational?style=flat&logo=Github&logoColor=white&color=777777)
+</br>
 ![Testing](https://img.shields.io/badge/Testing-informational?style=flat)
 ![Jest](https://img.shields.io/badge/Jest-informational?style=flat&logo=Jest&logoColor=white&color=777777)
 ![Mocha](https://img.shields.io/badge/Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=777777)
