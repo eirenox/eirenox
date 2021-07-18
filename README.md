@@ -1,4 +1,4 @@
-## 🙋‍♂️ 심현오 (Hyounoh)
+## 🙋‍♂️ Hyounoh
 - Back-end engineer
 - Major in Computer science, computer graphics
 - Interested in color, image, emotional computing
