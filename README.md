@@ -51,7 +51,7 @@
 
 ## 🏌️‍♂️ Activity
 - ⛳️ Golf & 🧘 Yoga
-- 🚘 Drive
+- 🚘 Driving
 - 🍽 Eating & 🍺 Drinking
 
 ## 📟 Contact
