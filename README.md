@@ -38,7 +38,7 @@
 ## 🏢 Experience
 - RIDI Corp. (2020.11 - Present)
   - Backend engineer
-    - Ridibooks app/web back-end development
+    - Ridibooks back-end development
 - Acryl Inc. (2016.06 - 2020.10, 4 years 5 months)
   - Researcher
     - AI/BigData service development
