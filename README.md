@@ -4,10 +4,8 @@
 
 ## 🛠 Technologies & Tools
 ![Language](https://img.shields.io/badge/Language-informational?style=flat)
-![Javascript](https://img.shields.io/badge/Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=777777)
 ![Typescript](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=777777)
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=777777)
-![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=777777)
 </br>
 ![Library](https://img.shields.io/badge/Library-informational?style=flat)
 ![Express](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=white&color=777777)
@@ -50,8 +48,7 @@
     - Image based affective computing research
 
 ## 🏌️‍♂️ Activity
-- ⛳️ Golf & 🧘 Yoga
-- 🚘 Driving
+- ⛳️ Golf & 🚘 Driving
 - 🍽 Eating & 🍺 Drinking
 
 ## 📟 Contact
