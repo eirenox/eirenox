@@ -24,10 +24,10 @@
 ![Knex](https://img.shields.io/badge/Knex-informational?style=flat&logo=Knex&logoColor=white&color=777777)
 </br>
 ![Etc](https://img.shields.io/badge/Etc-informational?style=flat)
-![Terraform](https://img.shields.io/badge/Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=777777)
 ![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=777777)
-![Kafka](https://img.shields.io/badge/Kafka-informational?style=flat&logo=Apache%20Kafka&logoColor=white&color=777777)
 ![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=777777)
+![Kafka](https://img.shields.io/badge/Kafka-informational?style=flat&logo=Apache%20Kafka&logoColor=white&color=777777)
+![Terraform](https://img.shields.io/badge/Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=777777)
 ![Github](https://img.shields.io/badge/Github-informational?style=flat&logo=Github&logoColor=white&color=777777)
 ![Jest](https://img.shields.io/badge/Jest-informational?style=flat&logo=Jest&logoColor=white&color=777777)
 ![Mocha](https://img.shields.io/badge/Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=777777)
