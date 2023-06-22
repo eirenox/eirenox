@@ -14,10 +14,6 @@
     - Non-photorealistic rendering research
     - Image based affective computing research
 
-## 🏌️‍♂️ Activity
-- ⛳️ Golf & 🚘 Driving
-- 🍽 Eating & 🍺 Drinking
-
 ## 📟 Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyounohshim/)](https://www.linkedin.com/in/hyounohshim/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyounohshim@gmail.com)](mailto:hyounohshim@gmail.com)
