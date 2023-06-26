@@ -8,8 +8,8 @@
   - Backend engineer
     - [리디북스(Ridibooks)](https://ridibooks.com) backend development
 - Acryl Inc. (2016.06 - 2020.10, 4 years 5 months)
-  - Researcher
-    - AI/BigData service development
+  - SWE
+    - AI based service development
 - Chung-ang Univ. (2014.03 - 2016.02, 2 years)
   - Researcher
     - Non-photorealistic rendering research
