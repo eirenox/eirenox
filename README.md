@@ -1,9 +1,9 @@
-## 🙋‍♂️ Hyounoh(심현오)
+## Hyounoh(심현오)
 - Back-end engineer
 - Pursuit of simplicity and automation
 - Interest in color, image, and emotional computing
 
-## 🏢 Experience
+## Experience
 - RIDI Corp. (2020.11 - Present)
   - Backend engineer
     - [리디북스(Ridibooks)](https://ridibooks.com) backend development
@@ -15,7 +15,7 @@
     - Non-photorealistic rendering research
     - Image based affective computing research
 
-## 📟 Contact
+## Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyounohshim/)](https://www.linkedin.com/in/hyounohshim/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyounohshim@gmail.com)](mailto:hyounohshim@gmail.com)
 
