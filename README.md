@@ -1,6 +1,7 @@
 ## 🙋‍♂️ Hyounoh
 - Back-end engineer
-- Interested in color, image, and emotional computing
+- Pursuit of simplicity and automation
+- Interest in color, image, and emotional computing
 
 ## 🏢 Experience
 - RIDI Corp. (2020.11 - Present)
