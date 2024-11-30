@@ -1,7 +1,5 @@
 ## Hyounoh(심현오)
 - Back-end engineer
-- Pursuit of simplicity and automation
-- Interest in color, image, and emotional computing
 
 ## Experience
 - RIDI Corp. (2020.11 - Present)
