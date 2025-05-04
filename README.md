@@ -1,5 +1,4 @@
-## Hyounoh(심현오)
-- Back-end engineer
+## Back-end engineer
 
 ## Experience
 - RIDI Corp. (2020.11 - Present)
